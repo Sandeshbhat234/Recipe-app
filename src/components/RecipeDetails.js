@@ -61,13 +61,13 @@ const RecipeDetails = () => {
           Back
         </button>
       </div>
-      <div className="min-h-screen col-start-1 col-span-4 ">
-        <div className="w-1/3 relative">
+      <div className="col-start-1 col-span-4 ">
+        <div className=" relative">
           <img src={cheff} alt="Delicious food" className="absolute left-44" />
         </div>
-        <div className="w-3/4 text-black  items-start absolute -right-36 top-48">
+        <div className=" text-black  items-start absolute -right-36 top-48">
           <h1 className="text-4xl font-bold mb-4  ">
-            I know about this recipe..But I won't tell you..
+            I am working on it. Will release it soon..
           </h1>
         </div>
       </div>
