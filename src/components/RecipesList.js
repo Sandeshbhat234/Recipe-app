@@ -49,7 +49,7 @@ const RecipesList = () => {
             </Link>
           ))
         ) : (
-          <div className="min-h-screen col-start-1 col-span-4 ">
+          <div className="min-h-screen col-start-1 col-span-4  ">
             <div className="w-1/3 relative">
               <img
                 src={cheff}
@@ -57,11 +57,11 @@ const RecipesList = () => {
                 className="absolute left-44"
               />
             </div>
-            <div className="w-3/4 text-black  items-start absolute -right-36 top-48">
-              <h1 className="text-4xl font-bold mb-4  ">
+           
+              <h1 className="text-4xl font-bold mb-4 inline-block absolute right-96 top-40 ">
                 I know about this recipe..But I won't tell you..
               </h1>
-            </div>
+        
           </div>
         )}
       </div>
