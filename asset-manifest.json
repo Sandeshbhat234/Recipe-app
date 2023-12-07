@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sandeshbhat234.github.io/Recipe-app/static/css/main.f813a39e.css",
+    "main.js": "/Sandeshbhat234.github.io/Recipe-app/static/js/main.5de78160.js",
+    "static/media/cheff.png": "/Sandeshbhat234.github.io/Recipe-app/static/media/cheff.5d56eaabaeea0339c60f.png",
+    "static/media/cheff1.png": "/Sandeshbhat234.github.io/Recipe-app/static/media/cheff1.1218407d7a8cdd18646c.png",
+    "static/media/homecheff.png": "/Sandeshbhat234.github.io/Recipe-app/static/media/homecheff.0522eaa03d747aa5e77e.png",
+    "index.html": "/Sandeshbhat234.github.io/Recipe-app/index.html",
+    "main.f813a39e.css.map": "/Sandeshbhat234.github.io/Recipe-app/static/css/main.f813a39e.css.map",
+    "main.5de78160.js.map": "/Sandeshbhat234.github.io/Recipe-app/static/js/main.5de78160.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f813a39e.css",
+    "static/js/main.5de78160.js"
+  ]
+}
